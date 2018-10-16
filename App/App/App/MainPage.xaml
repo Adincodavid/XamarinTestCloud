@@ -14,7 +14,7 @@
 
             <StackLayout Grid.Row="0">
                 <syncfusion:SfCarousel x:Name="carousel" 
-                                       HeightRequest="200"/>
+                                       HeightRequest="130"/>
                 <ListView x:Name="ListaGenerica" ></ListView>
                 <ActivityIndicator x:Name="Activity"></ActivityIndicator>
                 <Label Text="Hola Mundo"/>
