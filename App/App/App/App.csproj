@@ -11,6 +11,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AppCenter" Version="1.9.0" />
+    <PackageReference Include="Syncfusion.Xamarin.SfCarousel" Version="15.4.0.20" />
     <PackageReference Include="Xamarin.Forms" Version="3.1.0.697729" />
   </ItemGroup>
 
